@@ -45,3 +45,5 @@ C:\Users\vaje\source\repos\Teachers Menu\Teachers Menu\obj\Debug\Teachers Menu.x
 C:\Users\vaje\source\repos\Teachers Menu\Teachers Menu\obj\Debug\Teachers Menu.pdb
 C:\Users\vaje\source\repos\Teachers Menu\Teachers Menu\obj\Debug\Teachers Menu.exe.config
 C:\Users\vaje\source\repos\Teachers Menu\Teachers Menu\obj\Debug\Teachers_Menu.Form2.resources
+C:\Users\vaje\source\repos\Teachers Menu\Teachers Menu\obj\Debug\Teachers_Menu.Form3.resources
+C:\Users\vaje\source\repos\Teachers Menu\Teachers Menu\obj\Debug\Teachers_Menu.Form4.resources

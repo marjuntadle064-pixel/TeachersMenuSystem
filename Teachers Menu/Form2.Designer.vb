@@ -44,66 +44,73 @@ Partial Class Form2
         '
         'btnInputInfo
         '
+        Me.btnInputInfo.BackColor = System.Drawing.SystemColors.ActiveCaption
         Me.btnInputInfo.Location = New System.Drawing.Point(49, 101)
         Me.btnInputInfo.Name = "btnInputInfo"
         Me.btnInputInfo.Size = New System.Drawing.Size(150, 36)
         Me.btnInputInfo.TabIndex = 1
         Me.btnInputInfo.Text = "Input Student Information"
-        Me.btnInputInfo.UseVisualStyleBackColor = True
+        Me.btnInputInfo.UseVisualStyleBackColor = False
         '
         'btnInputGrades
         '
+        Me.btnInputGrades.BackColor = System.Drawing.SystemColors.ActiveCaption
         Me.btnInputGrades.Location = New System.Drawing.Point(49, 154)
         Me.btnInputGrades.Name = "btnInputGrades"
         Me.btnInputGrades.Size = New System.Drawing.Size(150, 33)
         Me.btnInputGrades.TabIndex = 2
         Me.btnInputGrades.Text = "Input Grade"
-        Me.btnInputGrades.UseVisualStyleBackColor = True
+        Me.btnInputGrades.UseVisualStyleBackColor = False
         '
         'btnCompute
         '
+        Me.btnCompute.BackColor = System.Drawing.SystemColors.ActiveCaption
         Me.btnCompute.Location = New System.Drawing.Point(49, 202)
         Me.btnCompute.Name = "btnCompute"
         Me.btnCompute.Size = New System.Drawing.Size(150, 33)
         Me.btnCompute.TabIndex = 3
         Me.btnCompute.Text = "Compute Final Grade"
-        Me.btnCompute.UseVisualStyleBackColor = True
+        Me.btnCompute.UseVisualStyleBackColor = False
         '
         'btnViewReport
         '
+        Me.btnViewReport.BackColor = System.Drawing.SystemColors.ActiveCaption
         Me.btnViewReport.Location = New System.Drawing.Point(49, 250)
         Me.btnViewReport.Name = "btnViewReport"
         Me.btnViewReport.Size = New System.Drawing.Size(150, 33)
         Me.btnViewReport.TabIndex = 4
         Me.btnViewReport.Text = "View Grade Report"
-        Me.btnViewReport.UseVisualStyleBackColor = True
+        Me.btnViewReport.UseVisualStyleBackColor = False
         '
         'btnSaveGrades
         '
+        Me.btnSaveGrades.BackColor = System.Drawing.SystemColors.ActiveCaption
         Me.btnSaveGrades.Location = New System.Drawing.Point(49, 301)
         Me.btnSaveGrades.Name = "btnSaveGrades"
         Me.btnSaveGrades.Size = New System.Drawing.Size(150, 33)
         Me.btnSaveGrades.TabIndex = 5
         Me.btnSaveGrades.Text = "Save Grade Records"
-        Me.btnSaveGrades.UseVisualStyleBackColor = True
+        Me.btnSaveGrades.UseVisualStyleBackColor = False
         '
         'btnGetRemarks
         '
+        Me.btnGetRemarks.BackColor = System.Drawing.SystemColors.ActiveCaption
         Me.btnGetRemarks.Location = New System.Drawing.Point(49, 349)
         Me.btnGetRemarks.Name = "btnGetRemarks"
         Me.btnGetRemarks.Size = New System.Drawing.Size(150, 33)
         Me.btnGetRemarks.TabIndex = 6
         Me.btnGetRemarks.Text = "Get Remarks"
-        Me.btnGetRemarks.UseVisualStyleBackColor = True
+        Me.btnGetRemarks.UseVisualStyleBackColor = False
         '
         'btnLogout
         '
+        Me.btnLogout.BackColor = System.Drawing.SystemColors.ActiveCaption
         Me.btnLogout.Location = New System.Drawing.Point(710, 405)
         Me.btnLogout.Name = "btnLogout"
         Me.btnLogout.Size = New System.Drawing.Size(78, 33)
         Me.btnLogout.TabIndex = 7
         Me.btnLogout.Text = "Logout"
-        Me.btnLogout.UseVisualStyleBackColor = True
+        Me.btnLogout.UseVisualStyleBackColor = False
         '
         'Form2
         '

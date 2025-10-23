@@ -10,4 +10,16 @@
         Me.Hide()
 
     End Sub
+
+    Private Sub btnInputInfo_Click(sender As Object, e As EventArgs) Handles btnInputInfo.Click
+        Dim mainMenu As New Form3()
+        mainMenu.Show()
+        Me.Hide()
+    End Sub
+
+    Private Sub btnInputGrades_Click(sender As Object, e As EventArgs) Handles btnInputGrades.Click
+        Dim mainMenu As New Form4()
+        mainMenu.Show()
+        Me.Hide()
+    End Sub
 End Class
