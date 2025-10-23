@@ -22,4 +22,10 @@
         mainMenu.Show()
         Me.Hide()
     End Sub
+
+    Private Sub btnCompute_Click(sender As Object, e As EventArgs) Handles btnCompute.Click
+        Dim mainMenu As New Form5()
+        mainMenu.Show()
+        Me.Hide()
+    End Sub
 End Class
